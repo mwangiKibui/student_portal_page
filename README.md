@@ -1,0 +1,1 @@
+this is a student portal page developed in javascript, Jquery, ajax and PHP
